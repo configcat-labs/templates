@@ -2,10 +2,9 @@ Read.me template:
 
 # Sample application name and/or blogpost title
 
-#### (Optional) In case the blog post is already published, please add:
-[Read the blog post here](https://configcat.com/blog/)
+#### (Optional) In case the blog post is already published, please add: [Read the blog post here](https://configcat.com/blog/)
 
-A few words about the contents of the repository. Whats is this application about, what does it demonstrate?
+A few words about the contents of the repository. Whats is this application about, what does it demonstrate? Add a backlink to https://configcat.com
 
 ## Build & Run
 
